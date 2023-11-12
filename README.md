@@ -47,7 +47,7 @@ The functionality is assessed based on the correct implementation of both models
 
 Feel free to explore and add your creative touch to enhance the functionality of the programs.
 
-##Images
+## Images
 ![Screenshot 2023-11-12 194355](https://github.com/roomgnh/blocking-nonblocking/assets/149757857/59999726-d7f5-4ec7-a085-b6e9bf57524d)
 
 ![Screenshot 2023-11-12 195957](https://github.com/roomgnh/blocking-nonblocking/assets/149757857/96f4e6d0-e166-4c25-b30e-5d3638dcbeed)
